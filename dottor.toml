@@ -1,6 +1,6 @@
 exclude = ['.git/']
 
 [synchronization]
-repository = 'CozyPenguin/dotfiles'
+repository = 'cschierig/dotfiles'
 remote = 'origin'
 branch = 'main'

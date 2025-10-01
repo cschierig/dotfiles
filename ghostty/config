@@ -1,0 +1,9 @@
+# Theming
+theme = catppuccin-mocha.conf
+#window-theme = ghostty
+
+## Font
+font-family = FiraCode Nerd Font
+
+# startup
+command = zellij
