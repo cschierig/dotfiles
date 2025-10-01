@@ -1,5 +1,3 @@
-# Themes
-
 # TODO: find a better way to include this from https://github.com/nushell/nu_scripts/blob/main/themes/nu-themes/carppuccin-mocha.nu
 const color_palette = {
     rosewater: "#f5e0dc"
@@ -176,3 +174,5 @@ $env.PROMPT_INDICATOR_VI_NORMAL = ''
 
 # Completer
 source ~/.cache/carapace/init.nu
+
+use '/home/carl/.config/broot/launcher/nushell/br' *
