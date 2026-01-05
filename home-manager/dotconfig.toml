@@ -1,0 +1,14 @@
+[target]
+exclude = []
+require_empty = false
+
+[target.windows]
+exclude = []
+
+[target.linux]
+exclude = []
+directory = "~/.config/home-manager"
+
+[dependencies.simple]
+local = []
+system = []
